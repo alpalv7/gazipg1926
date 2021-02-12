@@ -146,7 +146,7 @@ class School:
             self.felsefe = "Aristotales"
 
 
-class GoynukFenLisesi(School):
+class hacısabancıfenlisesi (School):
     class Students:
         def __init__(self):
             self.zeka = 100
@@ -168,7 +168,7 @@ class GoynukFenLisesi(School):
                 print("Ders biter")
 
 
-class AksuFenLisesi(School):
+class bahçelievlerlisesi (School):
     class Class:
         def haylazlik(self):
             print("Hocam bugün ders işlemesek mi?")
